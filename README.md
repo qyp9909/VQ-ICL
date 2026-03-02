@@ -1,7 +1,8 @@
 # Vector Quantized Intent Contrastive Learning for Sequential Recommendation (VQ-ICL)
 
-The source code is used for review in ICASSP 2026.
+This is the Pytorch implementation for the paper:
 
+[ICASSP 2026] Vector Quantized Intent Contrastive Learning for Sequential Recommendation
 
 ## Implementation
 ### Requirements
